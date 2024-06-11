@@ -94,9 +94,8 @@
       font-size: 18px;
     }
   }
-
   .container{
-    border:2px solid blue;
+    border:2px solid rgb(1, 1, 22);
     padding: 28px;
     text-align: center;
   }
